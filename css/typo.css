@@ -1,44 +1,26 @@
 
 
-header{
-height: 80px;
-position: fixed;
-background-color: #FFFFFF;
-margin-top: 0px;
-width: 100%;
-image-resolution: 20px;
-
-}
-
 
 h1 {
-text-align: center;
-margin-bottom: 8rem;
-margin-top: 200px;
-margin-left: 100px;
-margin-right: 100px;
 font-family: 'Barlow', sans-serif;
+text-align: center;
+margin-bottom: 90px;
+margin-top: 200px;
+max-width: 1000px;
+margin-left: auto;
+margin-right: auto;
 font-size: 40px;
 line-height: 50px;
-font-weight: 400;
-letter-spacing: 0em;
 background-color: #FFFFFF;
 }
 
-img{
-margin-left: auto;
-margin-right: auto;
-align-items: center;
-width: 100px;
-
-}
 
 
 h4{
 font-family: 'Barlow', sans-serif;
-font-size: 2em;
+font-size: 25px;
 text-align: center;
-margin-bottom: 300px;
+margin-bottom: 50px;
 margin-top: 100px;
 font-weight: 600;
 
@@ -67,10 +49,11 @@ margin-top: 150px;
 
 p{
   font-family: 'Cormorant Garamond', serif;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
   font-weight: 500;
   font-size: 25px;
 line-height: 40px;
-margin-left: 300px;
-margin-right: 300px;
 margin-top: 50px;
 }
